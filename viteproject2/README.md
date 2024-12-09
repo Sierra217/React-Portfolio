@@ -39,10 +39,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ### Description 
 single page react application
 
-###License MIT
+### License MIT
 
-###Tests 
+### Tests 
 npm run build, npm star, follow link http://localhost:3001/ 
 
-###Questions 
+### Questions 
 With any questions contact test@email.com https://github.com/Sierra217
