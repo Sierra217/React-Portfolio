@@ -4,14 +4,10 @@
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: light) {
-    :root {
-      background: rgb(201,146,175);
-      background: linear-gradient(0deg, rgba(201,146,175,0.798739564185049) 0%, rgba(255,249,229,1) 100%); 
-      width: 100% !important;
-      height: 100% !important;
-    }
-  }
+body {
+  background: #735d78 !important;
+}
+
 
 header {
   justify-content: space-between;
