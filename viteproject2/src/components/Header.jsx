@@ -1,4 +1,5 @@
 import Navigation from './Navigation';
+import selfie from "../assets/profile-picture.jpg"
 
 const Header = () => {
     return (
@@ -6,7 +7,7 @@ const Header = () => {
             <h1>Sierra Bjorlin</h1>
             <Navigation />
             <div className="header-top">
-                <img src="/src/assets/profile-picture.jpg" className="profile-picture" alt="profile picture" />
+                <img src={selfie} className="profile-picture" alt="profile picture" />
             </div>
         </header>
     )

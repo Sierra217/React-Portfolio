@@ -1,39 +1,41 @@
+import exampleImg from "../assets/Example_image.png"
+
 
 const Portfolio = () => {
     const projects = [
         {
             title: 'Project 1',
-            image: '/src/assets/Example_image.png',  
+            image: exampleImg,  
             Git: 'https://github.com/project',     
             Deployed: 'https://example.com'
         },
         {
             title: 'Project 2',
-            image: '/src/assets/Example_image.png',
+            image: exampleImg,
             Git: 'https://github.com/project',
             Deployed: 'https://example.com'
         },
         {
             title: 'Project 3',
-            image: '/src/assets/Example_image.png',
+            image: exampleImg,
             Git: 'https://github.com/project',
             Deployed: 'https://example.com'
         },
         {
             title: 'Project 4',
-            image: '/src/assets/Example_image.png',
+            image: exampleImg,
             Git: 'https://github.com/project',
             Deployed: 'https://example.com'
         },
         {
             title: 'Project 5',
-            image: '/src/assets/Example_image.png',
+            image: exampleImg,
             Git: 'https://github.com/project',
             Deployed: 'https://example.com'
         },
         {
             title: 'Project 6',
-            image: '/src/assets/Example_image.png',
+            image: exampleImg,
             Git: 'https://github.com/project',
             Deployed: 'https://example.com'
         }
